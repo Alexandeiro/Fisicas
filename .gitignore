@@ -97,3 +97,12 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Fisicas/Library/
+Fisicas/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+Fisicas/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Fisicas/Packages/manifest.json
+Fisicas/Packages/manifest.json.rej
+Fisicas/Packages/packages-lock.json
+Fisicas/UserSettings/EditorUserSettings.asset
+Fisicas/UserSettings/Search.settings
+Fisicas/UserSettings/Layouts/default-6000.dwlt
